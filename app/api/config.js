@@ -1,3 +1,4 @@
+// export const BASE_URL = 'https://swaggames.nomoredomainswork.ru/api'
 export const BASE_URL = 'https://swaggames.nomoredomainswork.ru/api'
 
 export const endpoints = {
